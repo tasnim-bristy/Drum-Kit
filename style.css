@@ -1,0 +1,30 @@
+body{
+    background-color: #283149;
+    text-align: center;
+}
+
+
+h1{
+    font-size: 80px;
+    color:#DBEDF3;
+    text-shadow: 3px 0 #DA0463;
+}
+
+.set{
+    flex-grow: 1;
+}
+
+button{
+    padding: 32px 40px;
+    font-size: 70px;
+    font-weight: 700;
+    background-color: #DBEDF3;
+    color: rgb(192, 49, 49);
+    border-radius: 8px;
+    border: 9px solid #4b597f;
+    margin-left: 15px;
+}
+
+.a{
+    background-image: url();
+}
