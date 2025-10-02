@@ -26,5 +26,53 @@ button{
 }
 
 .a{
+    padding: 33px 42px;
+}
+.s{
+    padding: 33px 42px;
+}
+.d{
+    padding: 33px 42px;
+}
+.j{
+    padding: 33px 50px;
+}
+.l{
+    padding: 33px 50px;
+}
+
+.a{
     background-image: url();
 }
+
+@media(max-width:680px){
+    .set{
+        flex-grow: 1;
+    }
+
+    h1{
+        font-size: 50px;
+    }
+    button{
+        padding: 20px 30px;
+        font-size: 50px;
+        font-weight: 700;
+        margin-bottom: 15px;
+    }
+
+    .a{
+        padding: 19px 34px;
+    }
+    .s{
+        padding: 19px 35px;
+    }
+    .d{
+        padding: 19px 34px;
+    }
+    .j{
+        padding: 23px 43px;
+    }
+    .l{
+        padding: 23px 43px;
+    }
+} 
